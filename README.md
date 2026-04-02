@@ -36,3 +36,6 @@
 ---
 
 ⭐ Don't forget to follow me!
+
+
+![Snake animation](https://raw.githubusercontent.com/abhiror863-ux/abhiror863-ux/output/github-contribution-grid-snake.svg)
