@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=220&section=header&text=Abhi%20|%20Python%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 </p>
+
+![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Abhi;Python+Developer;Building+Projects;Learning+Everyday)
 
 <h1 align="center">Hi 👋, I'm Abhi</h1>
 <h3 align="center">🐍 Python Developer | Learning & Building</h3>
