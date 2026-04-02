@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhi</h1>
+<h3 align="center">🐍 Python Developer | Learning & Building</h3>
 
-<!--
-**abhiror863-ux/abhiror863-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🎓 CSE Student  
+- 🐍 Learning Python  
+- 🚀 Building Projects  
+- 🎯 Goal: Earn from coding  
+
+---
+
+### 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-Blue?style=for-the-badge&logo=python)
+
+---
+
+### 📌 Projects
+- 🔹 Calculator  
+- 🔹 To-Do App (Coming soon)  
+- 🔹 Automation Scripts  
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=abhiror863-ux&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 Activity Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiror863-ux&theme=tokyo-night)
+
+---
+
+⭐ Don't forget to follow me!
