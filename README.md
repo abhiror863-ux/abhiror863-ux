@@ -1,30 +1,30 @@
-<!-- 🧠 Cinematic Dark Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00F7FF&height=280&section=header&text=ABHI&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=32&desc=Code.%20Build.%20Dominate.&descAlignY=55&descSize=20"/>
+<!-- 🔥 Cinematic Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00F7FF,100:000000&height=260&section=header&text=ABHI&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20WEB%20DEV%20%7C%20BUILDER&descAlignY=55&descSize=18"/>
 
-<!-- 👁️ Identity Line -->
-<h2 align="center">I don't just learn code — I build things people remember ⚡</h2>
+<!-- 👑 LEGEND INTRO -->
+<h2 align="center">I build real-world systems with AI & Web — not just projects 🚀</h2>
 
-<!-- ⚡ Smooth Typing (Legend Style) -->
+<!-- ⚡ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+in+Progress;Web+Systems+Builder;Future+Tech+Creator&center=true&width=550&height=50&color=00F7FF&size=24">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Developer;Web+Builder;Future+Creator;Always+Learning&center=true&width=500&height=50&color=00F7FF&size=24">
 </p>
 
-<!-- 🧩 Clean Minimal Divider -->
+<!-- 🧠 Identity -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=700"/>
+  <b>CSE Student • AI Builder • Future Developer</b>
 </p>
 
-<!-- 🧠 Signature Identity -->
+<!-- 🔢 Visitor Counter -->
 <p align="center">
-  <b>Building real-world systems • Not tutorials • Not theory</b>
+  <img src="https://komarev.com/ghpvc/?username=abhiror863-ux&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
 </p>
 
-<!-- 🔗 Elite Social -->
+<!-- 🧰 Tech Stack -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhimanyu-choudhary-0b287a401">
-    <img src="https://img.shields.io/badge/LinkedIn-Enter%20Profile-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode"/>
 </p>
 
-<!-- 🔻 Cinematic Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0f2027,100:000000&height=140&section=footer"/>
+---
+
+<!-- 🔻 Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00F7FF,100:000000&height=120&section=footer"/>
