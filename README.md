@@ -1,23 +1,14 @@
-<!-- 🔥 Cinematic Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00F7FF,100:000000&height=260&section=header&text=ABHI&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20WEB%20DEV%20%7C%20BUILDER&descAlignY=55&descSize=18"/>
+<!-- 🔥 Clean Premium Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=220&section=header&text=ABHI&fontSize=55&fontColor=ffffff"/>
 
-<!-- 👑 LEGEND INTRO -->
-<h2 align="center">I build real-world systems with AI & Web — not just projects 🚀</h2>
+<!-- 👑 Identity -->
+<h2 align="center">Building systems that solve real problems</h2>
 
-<!-- ⚡ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Developer;Web+Builder;Future+Creator;Always+Learning&center=true&width=500&height=50&color=00F7FF&size=24">
+  <b>AI • Web • Automation</b>
 </p>
 
-<!-- 🧠 Identity -->
-<p align="center">
-  <b>CSE Student • AI Builder • Future Developer</b>
-</p>
-
-<!-- 🔢 Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhiror863-ux&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
-</p>
+---
 
 <!-- 🧰 Tech Stack -->
 <p align="center">
@@ -26,5 +17,41 @@
 
 ---
 
-<!-- 🔻 Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00F7FF,100:000000&height=120&section=footer"/>
+## 🚀 Featured Work
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abhiror863-ux&repo=expense-tracker&theme=tokyonight"/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhiror863-ux&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiror863-ux&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiror863-ux&theme=react-dark&bg_color=000000&color=00F7FF&line=00F7FF&point=FFFFFF"/>
+
+---
+
+## 🎥 Demo
+
+![Demo](demo.gif)
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhimanyu-choudhary-0b287a401">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>
+
+<!-- 🔻 Footer -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0f2027&height=120&section=footer"/>
